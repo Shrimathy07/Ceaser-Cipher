@@ -1,4 +1,5 @@
-class GFG
+class  VigenereCipher
+
 {
 static String generateKey(String str, String key)
 {
